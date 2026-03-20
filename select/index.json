@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Superpowers",
+  "base_artist": "Daniel Caesar",
+  "createdAt": "2026-03-20T18:03:53.155050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Superpowers",
+      "artist": "The Dismemberment Plan",
+      "has_synced": false,
+      "path": "select/01_Superpowers_The_Dismemberment_Plan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Superpowers",
+      "artist": "Five Iron Frenzy",
+      "has_synced": true,
+      "path": "select/02_Superpowers_Five_Iron_Frenzy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flowers & Superpowers",
+      "artist": "Wafia",
+      "has_synced": true,
+      "path": "select/03_Flowers_&_Superpowers_Wafia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "superpowers",
+      "artist": "Tai Verdes",
+      "has_synced": true,
+      "path": "select/04_superpowers_Tai_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Superpowers",
+      "artist": "Dismemberment Plan",
+      "has_synced": false,
+      "path": "select/05_Superpowers_Dismemberment_Plan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Superpowers (feat. Ser Amari)",
+      "artist": "Yung Senju",
+      "has_synced": false,
+      "path": "select/06_Superpowers_(feat._Ser_Amari)_Yung_Senju.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Superpowers",
+      "artist": "Yung Senju",
+      "has_synced": false,
+      "path": "select/07_Superpowers_Yung_Senju.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Superpowers",
+      "artist": "Daniel Caesar",
+      "has_synced": true,
+      "path": "select/08_Superpowers_Daniel_Caesar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Superpowers",
+      "artist": "Dane Cook",
+      "has_synced": true,
+      "path": "select/09_Superpowers_Dane_Cook.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SUPERPOWERS",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/10_SUPERPOWERS_ITZY.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SUPERPOWERS (inst.)",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/11_SUPERPOWERS_(inst.)_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SUPERPOWERS",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/12_SUPERPOWERS_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Superpowers",
+      "artist": "SAARA",
+      "has_synced": true,
+      "path": "select/13_Superpowers_SAARA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Superpowers (Official Audio)",
+      "artist": "Daniel Caesar",
+      "has_synced": true,
+      "path": "select/14_Superpowers_(Official_Audio)_Daniel_Caesar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Superpowers",
+      "artist": "Slowly Slowly",
+      "has_synced": false,
+      "path": "select/15_Superpowers_Slowly_Slowly.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SUPERPOWERS (instrumental)",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/16_SUPERPOWERS_(instrumental)_ITZY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Superpowers",
+      "artist": "Daniel Caesar",
+      "has_synced": false,
+      "path": "select/pl_01_Superpowers_Daniel_Caesar.txt"
+    }
+  ]
+}
